@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+	int a,b;
+	a=2;
+	/*
+	b=3;*/
+	b=4.5e6;
+	//can you see me? 
+	printf("a+b=%d",a+b); 
+	return 0;
+}

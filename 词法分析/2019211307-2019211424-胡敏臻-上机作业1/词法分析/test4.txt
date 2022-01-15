@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+	char a,b;
+	a='bz';
+	/*
+	b=3;
+	b=4E;
+	//can you see me? 
+	printf("a+b=%d",a+b); 
+	return 0;
+}
